@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-checkboxes-tree/static/css/main.1a8a0596.css",
-    "main.js": "/react-checkboxes-tree/static/js/main.0cf66b40.js",
+    "main.js": "/react-checkboxes-tree/static/js/main.f3ef8a5e.js",
     "index.html": "/react-checkboxes-tree/index.html",
     "main.1a8a0596.css.map": "/react-checkboxes-tree/static/css/main.1a8a0596.css.map",
-    "main.0cf66b40.js.map": "/react-checkboxes-tree/static/js/main.0cf66b40.js.map"
+    "main.f3ef8a5e.js.map": "/react-checkboxes-tree/static/js/main.f3ef8a5e.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
-    "static/js/main.0cf66b40.js"
+    "static/js/main.f3ef8a5e.js"
   ]
 }
