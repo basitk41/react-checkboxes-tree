@@ -8,7 +8,8 @@ const CheckBox = ({ x, z, id }) => {
         }}
       />
       <label style={{ marginLeft: "5px" }}>{x.label}</label>
-      {x.subClass && x.subClass.map((y) => <Select id={x.id} x={y} z={true} />)}
+      {x.subClass &&
+        x.subClass.map((y) => <CheckBox id={x.id} x={y} z={true} />)}
     </div>
   );
 };
